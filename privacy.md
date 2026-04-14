@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Privacy Policy
-description: Privacy Policy for the Core ML Models iOS app.
+description: Privacy Policy for the Model Zoo iOS app.
 permalink: /privacy.html
 ---
 
 # Privacy Policy
 
-_Last updated: April 12, 2026_
+_Last updated: April 14, 2026_
 
-This Privacy Policy describes how the **Core ML Models** iOS app ("the App", "we", "us") handles information when you use it. The App is developed and maintained by Daisuke Majima.
+This Privacy Policy describes how the **Model Zoo** iOS app ("the App", "we", "us") handles information when you use it. The App is developed and maintained by Daisuke Majima.
 
 ## Summary
 
@@ -30,7 +30,7 @@ We do not collect, store, or transmit any of the following:
 
 ## 2. Data Processed On-Device Only
 
-The App lets you run machine-learning models on data you provide (text, photos, audio, video). All of this processing happens **on your device using Apple's Core ML framework**. Inputs and outputs are never sent to us or to any third party.
+The App lets you run machine-learning models on data you provide (text, photos, audio, video). All of this processing happens **on your device**. Inputs and outputs are never sent to us or to any third party.
 
 ## 3. Camera, Microphone, and Photo Library Access
 

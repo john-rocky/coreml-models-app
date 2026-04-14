@@ -1,6 +1,6 @@
 # coreml-models-app
 
-Marketing, privacy, and support pages for the **Core ML Models** iOS app, served via GitHub Pages.
+Marketing, privacy, and support pages for the **Model Zoo** iOS app, served via GitHub Pages.
 
 Live site: https://john-rocky.github.io/coreml-models-app/
 

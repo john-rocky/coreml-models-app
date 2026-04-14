@@ -1,5 +1,5 @@
-title: Core ML Models
-description: An on-device AI playground — browse, download, and run open-source Core ML models on iPhone and iPad.
+title: Model Zoo
+description: An on-device AI playground — browse, download, and run open-source on-device AI models on iPhone and iPad.
 author: Daisuke Majima
 url: "https://john-rocky.github.io"
 baseurl: "/coreml-models-app"

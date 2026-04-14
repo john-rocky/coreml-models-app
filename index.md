@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Core ML Models
-description: An on-device AI playground — browse, download, and run open-source Core ML models on iPhone and iPad.
+title: Model Zoo
+description: An on-device AI playground — browse, download, and run open-source on-device AI models on iPhone and iPad.
 ---
 
-# Core ML Models
+# Model Zoo
 
 **An on-device AI playground for iPhone and iPad.**
 
-Browse a curated catalog of open-source models converted to Apple's Core ML format, download any of them with one tap, and run them fully on-device — no server, no account, nothing leaves your phone.
+Browse a curated catalog of open-source on-device AI models, download any of them with one tap, and run them fully on-device — no server, no account, nothing leaves your phone.
 
 ---
 

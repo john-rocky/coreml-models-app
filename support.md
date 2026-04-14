@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Support
-description: Support, FAQs, and contact information for the Core ML Models iOS app.
+description: Support, FAQs, and contact information for the Model Zoo iOS app.
 permalink: /support.html
 ---
 
 # Support
 
-Thanks for using **Core ML Models**. If something isn't working or you have a question, this page should help.
+Thanks for using **Model Zoo**. If something isn't working or you have a question, this page should help.
 
 ## Contact
 
@@ -28,7 +28,7 @@ When reporting a problem, please include:
 
 ### What is this app?
 
-A model zoo. You browse a catalog of open-source AI models that have been converted to Apple's Core ML format, download the ones you're interested in, and run them on your device.
+A model zoo. You browse a catalog of open-source on-device AI models, download the ones you're interested in, and run them on your device.
 
 ### Does it need an internet connection?
 
